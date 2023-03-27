@@ -30,7 +30,7 @@ pyrate-limiter==2.8.5
 pyrogram==2.0.96
 pymongo[srv]==4.3.3
 python-dotenv==0.21.0
-python-telegram-bot==20.0
+python-telegram-bot==20.2
 python-telegram-bot[job-queue]
 SQLAlchemy==1.4.46
 webcolors==1.12

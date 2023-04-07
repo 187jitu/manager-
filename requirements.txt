@@ -21,7 +21,7 @@ motor==3.1.1
 mutagen==1.46.0
 opencv-python-headless==4.7.0.68
 telegraph==2.2.0
-Telethon==1.26.1
+Telethon==1.28.1
 telethon-tgcrypto
 TgCrypto==1.2.5
 pillow==9.4.0
